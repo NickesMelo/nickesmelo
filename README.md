@@ -3,7 +3,6 @@
 - 🔭 Atualmente estou em transição de carreira.
 - 🌱 Estudo JavaScript, HTML5, CSS3, Python, C.
 - 📫 Fale comigo: 📱 (71) 98789-7216 ou 📨 nunes.melo18@outlook.com.br / nunes.melo18@gmail.com
-- 😄 Pronouns: ele/dele.
 <picture>
   <a href="https://github.com/nickesmelo/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nickesmelo&theme=dracula&show_icons=true" />
@@ -11,7 +10,7 @@
 </picture>
 <picture>
 <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nickesmelo&layout=compact&langs_count=8&card_width=320&theme=dracula&show_icons=true" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nickesmelo&layout=compact&langs_count=8&card_width=320&theme=dracula&show_icons=false" />
 </a>
 </picture>
 
