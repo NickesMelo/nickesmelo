@@ -3,11 +3,7 @@
 - 🔭 Atualmente estou em transição de carreira.
 - 🌱 Estudo JavaScript, HTML5, CSS3, Python, C.
 - 📫 Fale comigo: 📱 (71) 98789-7216 ou 📨 nunes.melo18@outlook.com.br / nunes.melo18@gmail.com
-<picture>
-  <a href="https://github.com/nickesmelo/github-readme-stats">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=nickesmelo&theme=dracula&show_icons=true&layout=compact" />
-  </a>
-</picture>
+
 <picture>
 <a href="https://github.com/anuraghazra/convoychat">
     <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nickesmelo&layout=compact&langs_count=8&card_width=320&theme=dracula&show_icons=false" />
