@@ -1,4 +1,4 @@
-## Olá!👋 Eu me chamo Nicolas Melo
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&size=30&duration=2500&pause=1000&vCenter=true&width=435&lines=Ol%C3%A1%F0%9F%91%8B+;Eu+me+chamo+Nicolas)](https://git.io/typing-svg)
 
 - 🔭 Atualmente estou em transição de carreira.
 - 🌱 Estudo JavaScript, HTML5, CSS3, Python, C.
