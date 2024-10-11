@@ -10,7 +10,7 @@ Jornalista por formação, atuo como repórter em um grande periódico impresso 
 
 ## :star:GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nickesmelo&theme=bear&background=&border=30A3DC&dates=FFF)](https://git.io/streak-stats) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nickesmelo&theme=dracula&show_icons=true&layout=compact)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nickesmelo&theme=dracula&show_icons=true&layout=compact)
 
 ## :stuck_out_tongue: Linguagens
 
